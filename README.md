@@ -1,7 +1,6 @@
 # Bank Project
 
 Bank Project is a Mini Project In C Language.
-[[https://github.com/GeeKh04/Bank-Project/blob/master/Images/home.png|alt=Home]]
 
 ## Description
 
